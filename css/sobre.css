@@ -1,0 +1,21 @@
+.sobre{
+    padding: 2rem 2rem 0 2rem;
+}
+
+
+.sobre__texto{
+    font-family: var(--open-sans);
+    font-weight: 400;
+    margin-bottom: 1rem;
+}
+
+.sobre__texto-bold{
+    font-weight: 700;
+    color: var(--cinza-escuro);
+}
+
+.sobre__lista{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

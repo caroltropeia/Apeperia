@@ -1,0 +1,23 @@
+.institucional{
+    margin-bottom: 2rem;
+}
+
+.address{
+    font-size: 1.4rem;
+    color: var(--cinza-escuro);
+}
+
+.institucional__contatos{
+    font-size: 1.2rem;
+    color: var(--cinza-escuro);
+    display: flex;
+    flex-direction: column;
+}
+
+.institucional__mail{
+    color: var(--fonte-link);
+}
+
+.institucional__video{
+   width: 100vw;
+}

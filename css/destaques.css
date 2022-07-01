@@ -1,0 +1,33 @@
+.destaques{
+    background-color: var(--cinza-claro);
+    
+}
+
+
+.destaques__imagem{
+    width: 100vw;
+    box-sizing: border-box;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.125);
+}
+
+.destaques__texto{
+    font-family: var(--open-sans);
+    font-weight: 400;
+    font-size: 1rem;
+    padding: .75rem 2.5rem;
+    line-height: normal;
+    margin-bottom: 2rem;
+}
+
+.destaques__botao{
+    border: 1px solid var(--vermelho-forte);
+    margin-left: 20%;
+    color: var(--vermelho-forte);
+    font-size: 1rem;
+    margin-bottom: 3rem;
+    width: 60%;
+}
+
+.destaques__div-botao{
+    padding-bottom: 3rem;
+}

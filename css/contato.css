@@ -1,0 +1,26 @@
+.contato{
+    text-align: center;
+}
+
+.contato__texto{
+    font-size: 1rem;
+    color: black;
+    font-family: var(--open-sans);
+    font-weight: 400;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+
+.contato__botao{
+    border-color: var(--cinza-escuro);
+    padding: 1rem 6rem;
+    color: var(--cinza-escuro);
+    font-size: 1rem;
+    font-family: var(--open-sans);
+    font-weight: 400;
+    margin-bottom: 2rem;
+}
+
+.contato-b{
+    margin-bottom: 4rem;
+}
